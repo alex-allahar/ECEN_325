@@ -1,1 +1,1 @@
-# ECEN_325
+# ECEN-325 Electronics
